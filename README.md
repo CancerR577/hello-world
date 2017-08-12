@@ -1,3 +1,3 @@
 # hello-world
-Hello,world!\n
+Hello,world!
 I'm a student, who is presently learning python3.
